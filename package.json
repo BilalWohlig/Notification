@@ -30,6 +30,7 @@
         "moment": "^2.29.3",
         "mongoose": "^6.3.3",
         "node-cron": "^3.0.0",
+        "nodemon": "^2.0.22",
         "require-all": "^3.0.0"
     },
     "devDependencies": {
