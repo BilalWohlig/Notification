@@ -1,4 +1,3 @@
-
 export default {
     sendNotification: async (data) => {
         const headers = {
